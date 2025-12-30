@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-In this project, I designed and implemented an **end-to-end data engineering pipeline** from scratch using **Azure Data Factory, Azure Data Lake, and Databricks**.  
+In this project, I designed and implemented an end-to-end data engineering pipeline from scratch using Azure Data Factory, Azure Data Lake, and Databricks.  
 
-The goal of this project was to create a **robust, scalable, and production-ready pipeline** for ingesting, transforming, and analyzing a banking transactions dataset to detect potential fraud patterns. I leveraged the dataset from Kaggle: [Transactions Fraud Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets).
+The goal of this project was to create a robust, scalable, and production-ready pipeline for ingesting, transforming, and analysing a banking transactions dataset to detect potential fraud patterns. I leveraged the dataset from Kaggle: [Transactions Fraud Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets).
 
-This project was inspired by my vision board and the desire to **demonstrate a complete modern cloud data engineering workflow**: [Vision Board Inspiration](https://www.youtube.com/watch?v=coVFXnVnBAc).
+This project was inspired by Vision Board and the desire to demonstrate a complete modern cloud data engineering workflow.
 
 ---
 
@@ -31,7 +31,7 @@ This project was inspired by my vision board and the desire to **demonstrate a c
 
 5. **Analytics & Insights**  
    - Enabled exploratory data analysis using Databricks notebooks.  
-   - Created dashboards for visualizing transaction patterns and potential fraud hotspots.
+   - Created dashboards for visualising transaction patterns and potential fraud hotspots.
 
 ---
 
@@ -76,10 +76,3 @@ This project was inspired by my vision board and the desire to **demonstrate a c
 - [Kaggle Transactions Fraud Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets)  
 - [Vision Board Inspiration](https://www.youtube.com/watch?v=coVFXnVnBAc)
 
----
-
-## Author
-
-**Joy Chuks-Nwosu**  
-- [GitHub](https://github.com/ChuksJoy/ChuksJoy)  
-- Data Engineering Enthusiast | Azure Certified | Python & PySpark Practitioner  
