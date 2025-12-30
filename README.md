@@ -11,6 +11,8 @@ This project was inspired by Vision Board and the desire to demonstrate a comple
 ---
 
 ## Project Roadmap
+<img width="1655" height="880" alt="Screenshot 2025-12-30 170352" src="https://github.com/user-attachments/assets/31790af6-c46e-4233-a601-15c74192ba46" />
+
 
 1. **Data Ingestion**  
    - Built pipelines using **Azure Data Factory (ADF)** to ingest raw banking transactions data from the source dataset into **Azure Data Lake Storage (ADLS)**.  
