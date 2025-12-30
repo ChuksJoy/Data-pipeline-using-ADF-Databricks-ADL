@@ -11,7 +11,7 @@ This project was inspired by Vision Board and the desire to demonstrate a comple
 ---
 
 ## Project Roadmap
-<img width="1655" height="880" alt="Screenshot 2025-12-30 170352" src="https://github.com/user-attachments/assets/31790af6-c46e-4233-a601-15c74192ba46" />
+<img width="1153" height="657" alt="Screenshot 2025-12-30 171017" src="https://github.com/user-attachments/assets/f1b2e1f6-8f0e-47fc-9efa-058635f0bd22" />
 
 
 1. **Data Ingestion**  
